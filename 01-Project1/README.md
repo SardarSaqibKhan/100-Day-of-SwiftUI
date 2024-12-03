@@ -11,5 +11,8 @@
 
 
 ## **Screenshots**
-![IMG_2789, IMG_2788](https://github.com/user-attachments/assets/76442636-468c-48bb-b6ea-ce53e6dc9174) (https://github.com/user-attachments/assets/f793a7dd-c8e3-47cc-a9d1-94ac1e229e7c)
-![IMG_2788](https://github.com/user-attachments/assets/f793a7dd-c8e3-47cc-a9d1-94ac1e229e7c)
+<p align="center">
+  <img src="/Users/sardarsaqib/Desktop/screenshot1.png" width="256" height="455">
+  <img src="screen2.png" width="256" height="455">
+  <img src="screen3.png" width="256" height="455">
+</p>

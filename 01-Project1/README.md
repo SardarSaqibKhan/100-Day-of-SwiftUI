@@ -11,12 +11,10 @@
 
 
 ## **Screenshots**
-![screenshot1](Screenshots/screenshot1.PNG)
-
-<p align="center">
- 
-
-  <img src="![screenshot1](https://github.com/user-attachments/assets/457fe8cd-8644-4f2b-a247-5ecb462713c2)" width="256" height="455">
-  <img src="/Users/sardarsaqib/Desktop/screenshot1.PNG" width="256" height="455">
-  <img src="screen3.png" width="256" height="455">
-</p>
+<table align="center">
+  <tr>
+    <td><img src="Screenshots/screenshot1.PNG" width="300"></td>
+    <td style="width: 50px;"></td>
+    <td><img src="Screenshots/screenshot2.PNG" width="300"></td>
+  </tr>
+</table>

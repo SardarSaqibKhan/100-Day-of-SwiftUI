@@ -1,4 +1,4 @@
-**Topic covers in project 1 :-**
+# **Topic covers in project 1 :-**
 - forms
 - user inupt
 - navigation title
@@ -10,6 +10,6 @@
 - Hiding the keyboard
 
 
-**Screenshots **
+## **Screenshots**
 ![IMG_2789](https://github.com/user-attachments/assets/76442636-468c-48bb-b6ea-ce53e6dc9174)
 ![IMG_2788](https://github.com/user-attachments/assets/f793a7dd-c8e3-47cc-a9d1-94ac1e229e7c)

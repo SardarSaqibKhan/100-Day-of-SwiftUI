@@ -11,7 +11,8 @@
 
 
 ## **Screenshots**
-![screenshot1](screenshots/screen01.png)
+![screenshot1](Screenshots/screenshot1.PNG)
+
 <p align="center">
  
 

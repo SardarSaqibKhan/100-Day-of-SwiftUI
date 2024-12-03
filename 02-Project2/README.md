@@ -13,9 +13,9 @@
 ## Screenshots
 <table align="center">
   <tr>
-    <td><img src="Screenshots/screenshot1.PNG" width="300"></td>
+    <td><img src="Screenshots/IMG_2790.PNG" width="300"></td>
     <td style="width: 50px;"></td>
-    <td><img src="Screenshots/screenshot2.PNG" width="300"></td>
+    <td><img src="Screenshots/IMG_2791.PNG" width="300"></td>
   </tr>
 </table>
 

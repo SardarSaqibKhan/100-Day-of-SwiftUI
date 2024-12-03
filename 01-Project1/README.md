@@ -12,9 +12,9 @@
 
 ## **Screenshots**
 <p align="center">
-  ![screenshot1](https://github.com/user-attachments/assets/457fe8cd-8644-4f2b-a247-5ecb462713c2)
+ 
 
-  <img src="screen1.png" width="256" height="455">
+  <img src="![screenshot1](https://github.com/user-attachments/assets/457fe8cd-8644-4f2b-a247-5ecb462713c2)" width="256" height="455">
   <img src="screen2.png" width="256" height="455">
   <img src="screen3.png" width="256" height="455">
 </p>

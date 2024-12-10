@@ -1,13 +1,8 @@
-# Topic covers in project 1 :-
-- forms
-- user inupt
-- navigation title
-- adding views in loop
-- Reading text from the user with TextField
-- Creating pickers in a form
-- Adding a segmented control for tip percentages
-- Calculating the total per person
-- Hiding the keyboard
+# Topic covers in project 2 :-
+- Clipshaps 
+- Alert
+- array shuffling 
+- random function 
 
 
 ## Screenshots

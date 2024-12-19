@@ -1,6 +1,5 @@
 # Topic covers in project 5 :-
 
-List, onAppear, Bundle, fatalError(), UITextChecker
 - List
 - onAppear method 
 - loading files from app Bundle

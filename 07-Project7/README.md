@@ -1,6 +1,5 @@
 # Topic covers in project 7 :-
 
-, , , , 
 - UserDefaults
 - Codable
 - sheet()

@@ -1,9 +1,13 @@
 # Topic covers in project 10 :-
 
-- containerRelativeFrame
-- NavigationLink
-- Json Decoding
-- Grid
+- Toggle
+- Stepper
+- Form
+- Navigation
+- Bindlable
+- Textfield validation
+- AsyncImage
+- HTTP POST method 
 
 ## Screenshots
 <table align="center">

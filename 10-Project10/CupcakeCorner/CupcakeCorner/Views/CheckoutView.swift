@@ -59,7 +59,7 @@ struct CheckoutView: View {
         
         var urlRequest = URLRequest(url: url)
         urlRequest.setValue("application/json", forHTTPHeaderField: "Content-Type")
-       // urlRequest.httpMethod = "POST"
+        urlRequest.httpMethod = "POST"
         
         do {
             let (data, _) = try await URLSession.shared.upload(for: urlRequest, from: encodedData)

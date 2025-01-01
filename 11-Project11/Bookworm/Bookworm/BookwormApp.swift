@@ -6,12 +6,14 @@
 //
 
 import SwiftUI
+import SwiftData
 
 @main
 struct BookwormApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AllBooks()
         }
+        .modelContainer(for: Book.self)
     }
 }

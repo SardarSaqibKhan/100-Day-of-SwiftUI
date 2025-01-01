@@ -3,6 +3,12 @@
 - @Binding
 - TextEditor
 - SwiftData
+- Fecthing from SwiftData
+- Sorting
+- Delete in SwiftData
+- Alert
+- Sheet
+- list 
 
 
 ## Screenshots

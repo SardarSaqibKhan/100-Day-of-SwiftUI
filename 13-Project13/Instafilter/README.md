@@ -5,6 +5,8 @@
 - Core image
 - ContentUnavailableView
 - PhotosPicker
+- ShareLink
+- requestReview()
 
 
 ## Screenshots

@@ -51,6 +51,7 @@ struct ContentView: View {
                             applyProcessing()
                         }
                 }
+                .disabled(processedImage == nil)
                 
                 HStack {
                     Button("Change filter", action: changeFilter)
@@ -59,6 +60,7 @@ struct ContentView: View {
                         ShareLink(item: processedImage, preview: SharePreview("Instafilter image", image: processedImage))
                     }
                 }
+                .disabled(processedImage == nil)
             }
             .padding([.horizontal, .bottom])
             .navigationTitle("Instafilter")
@@ -70,6 +72,8 @@ struct ContentView: View {
                 Button("Sepia Tone") { setFilter(CIFilter.sepiaTone()) }
                 Button("Unsharp Mask") { setFilter(CIFilter.unsharpMask()) }
                 Button("Vignette") { setFilter(CIFilter.vignette()) }
+                Button("Comic") { setFilter(CIFilter.comicEffect()) }
+                Button("Bump") { setFilter(CIFilter.bumpDistortion()) }
                 Button("Cancel", role: .cancel) { }
             }
         }
@@ -79,7 +83,7 @@ struct ContentView: View {
         currentFilter = filter
         loadImage()
         filterCount += 1
-        if filterCount >= 3 {
+        if filterCount >= 20 {
             requestReview()
         }
     }

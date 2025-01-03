@@ -2,7 +2,9 @@
 
 - onChange()
 - confirmationDialog() 
-- SwiftData
+- Core image
+- ContentUnavailableView
+- PhotosPicker
 
 
 ## Screenshots

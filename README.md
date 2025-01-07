@@ -1,8 +1,5 @@
 # 100-Day-of-SwiftUI
-Solutions to Paul Hudson's "100 days of SwiftUI" projects and challenges.
-
-https://www.hackingwithswift.com/100/swiftui
-
+I worked through the projects and challenges from Paul Hudson's "100 Days of SwiftUI" course, available at [Hacking with Swift](https://www.hackingwithswift.com/100/swiftui). During this journey, I developed a SwiftUI project and gained in-depth experience with SwiftUI, exploring many of its most frequently used controls.
 
 ## **Project 1 Screenshots**
 <table align="center">

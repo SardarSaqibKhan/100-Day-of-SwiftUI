@@ -1,10 +1,10 @@
-# Topic covers in Milestone of project 14 :-
+# Topic covers in project 14 :-
 
 - mapView
 - bio matric authentication 
 - read & write on documentsDirectory 
 - downloaded wikipedia data 
-- compareable protocol
+- Equatable, Compareable protocol
 - MVVM
 - injecting initial value into @State property
 - setting view on the bases of enum case 
